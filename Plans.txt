@@ -1,0 +1,3 @@
+Just a plain ol' txt file for plans for development:
+
+- Add more buttons on the main window (backspace, BinPad and HexPad shortcut buttons)
